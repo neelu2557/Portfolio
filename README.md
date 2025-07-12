@@ -35,15 +35,14 @@ This site showcases my skills, projects, and experience as a passionate web deve
 
 ## 🛠 Featured Projects
 
-### 🔹 Online Exam Quiz Platform
+### 🔹 ONLINE_EXAM_QUIZ_PLATFORM
 A web-based quiz app built using HTML, CSS, and JS with subject-wise MCQs and instant result feedback.
 
 ### 🔹 INSTA_ANALYSIS
 Instagram data analysis tool built using Python, Flask, and data visualization libraries.
 
-### 🔹 Youtube clone
-Frontend clone mimicking YouTube layout using react
-(See full list on the [Projects](#) section of the website)
+### 🔹 BMI_HEALTH_SUGGESTION_SYSTEM
+BMI calculation and personalized health suggestion tool built using ReactJS with animations, local storage history, and interactive UI for tracking and improving user health.
 
 ---
 
